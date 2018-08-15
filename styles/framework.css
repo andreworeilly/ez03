@@ -219,7 +219,7 @@ textarea {
 p {
 	line-height: 30px;
 	margin-bottom: 30px;
-	font-size:14px;
+	font-size:22px;
 }
 
 p > a {
@@ -236,7 +236,7 @@ p > span {
 }
 
 p strong{
-    font-size:15px;
+    font-size:22px;
     color:#1f1f1f;
 }
 
@@ -583,13 +583,13 @@ ol ol ol{
 
 .table-title{
 	font-family:'Dosis', sans-serif;
-	font-size:12px;
+	font-size:22px;
 }
 
 .table-sub-title{
 	font-family:'Dosis', sans-serif;
 	font-weight:bold;
-	font-size:12px;
+	font-size:22px;
 }
 
 .price{
@@ -2021,7 +2021,7 @@ calendar*{
 }
 
 .preloader-logo{
-    background-image:url(../images/preload-logo.png);
+    background-image:url(../images/tab.png);
     background-size:75px 75px;
     height:75px;
     width:75px;

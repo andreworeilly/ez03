@@ -19,6 +19,6 @@
   
   <plugin name="cordova-plugin-statusbar" />
   <preference name="StatusBarOverlaysWebView" value="true" />
-  <preference name="StatusBarBackgroundColor" value="#073763" />
-  <preference name="StatusBarStyle" value="lightcontent" />
+  <preference name="StatusBarBackgroundColor" value="#000000" />
+  <preference name="StatusBarStyle" value="blackopaque" />
 </widget>
